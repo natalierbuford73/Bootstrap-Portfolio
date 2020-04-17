@@ -1,3 +1,27 @@
+body{
+    font-family: 'Gotu', sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: rgb(36, 185, 128);
+    background: url("./images/background.png")
+}
+
+nav{
+    color: rgb(36, 185, 128);
+
+
+}
+
+
 h4{
     border-bottom: 1px solid green;
+}
+
+.auth-image{
+
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
 }
